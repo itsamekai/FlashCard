@@ -14,4 +14,6 @@ The game also allows you to delete existing words, add new words, edit existing 
 <br/>
 Versions used when creating the game: <br/>
 JavaFX16<br/>
-mysql-connector-java-8.0.20
+mysql-connector-java-8.0.20<br/>
+<h3> Notes: </h3>
+Done as an assignment for school.
