@@ -16,4 +16,4 @@ Versions used when creating the game: <br/>
 JavaFX16<br/>
 mysql-connector-java-8.0.20<br/>
 <h3> Notes: </h3>
-Done as an assignment for school.
+Done as an assignment for school. Code can be really messy as it was my first time working with JavaFX, so it is not the cleanest. Will hopefully clean it up next time when time is available.
